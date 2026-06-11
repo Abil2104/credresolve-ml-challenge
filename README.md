@@ -1,4 +1,4 @@
-## Machine Learning for Predictive Risk Analytics
+# Machine Learning for Predictive Risk Analytics
 ## Predictive Modeling & Risk Optimization
 
 Engineered a predictive machine learning pipeline in Python to optimize communication channel selection for debt collection, directly targeting operational inefficiencies.
